@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: cafe-app
-        image: mohamedsamir/cafe-app
+        image: mohamedsamir7744/cafe-app
         imagePullPolicy: Always
         ports:
         - containerPort: 80
